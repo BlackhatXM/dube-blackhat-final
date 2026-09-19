@@ -1,5 +1,6 @@
+
 streamlit
-openai-whisper
 edge-tts
 torch
+git+https://github.com/openai/whisper.git
 imageio-ffmpeg
