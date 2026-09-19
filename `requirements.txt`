@@ -1,5 +1,5 @@
-
 streamlit
 edge-tts
-faster-whisper
+SpeechRecognition
 imageio-ffmpeg
+pydub
